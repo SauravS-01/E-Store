@@ -6,7 +6,7 @@ Every newbie entering college has to face an initial period of hustle where he's
 Our website provides a common platform for the sellers and the buyers where the sellers put up goods for sale. The buyer can find the best price for a particular item. By this, the buyers no longer need to keep moving from senior to senior looking for goods which he needs.
 
 # Website Link
-https://ancient-beach-03347.herokuapp.com
+https://e-store-ah2x.onrender.com
 
 # Features
 
